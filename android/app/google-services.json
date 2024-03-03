@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186137160846",
+    "project_id": "pawtai-app",
+    "storage_bucket": "pawtai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186137160846:android:3877b16f8b367f8eff2ddf",
+        "android_client_info": {
+          "package_name": "com.pawtaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186137160846-5qlv8qod93khae9mufipuat9dg2ltl96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMwjoC4MapDShClbjulkMCSoif4ENN6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186137160846-5qlv8qod93khae9mufipuat9dg2ltl96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
