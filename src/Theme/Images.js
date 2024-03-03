@@ -1,0 +1,36 @@
+const images = {
+  SPLASH_LOGO: require('./Images/SplashLogo.png'),
+  Logo: require('./Images/Logo.png'),
+  Email: require('./Images/Icons/Email.png'),
+  PASSWORD: require('./Images/Icons/Password.png'),
+  USERNAME: require('./Images/Icons/UserName.png'),
+  pictures: require('./Images/Icons/pictures.png'),
+  paw: require('./Images/paws.png'),
+  WelcomeImage1: require('./Images/WelcomeImage1.png'),
+  WelcomeImage2: require('./Images/WelcomeImage2.png'),
+  WelcomeImage3: require('./Images/WelcomeImage3.png'),
+  backBtn: require('./Images/backBtn.png'),
+  PawtaiPaws: require('./Images/PawtaiPaws.png'),
+  catDummy: require('./Images/catDummy.png'),
+  like: require('./Images/likes.png'),
+  comment: require('./Images/comments.png'),
+  dog: require('./Images/dog.png'),
+  setting: require('./Images/setting.png'),
+  addBtn: require('../Theme/Images/addBtn.png'),
+  plus: require('../Theme/Images/plus.png'),
+  addBtnBig: require('../Theme/Images/addBtnBig.png'),
+  share: require('../Theme/Images/share.png'),
+  close: require('../Theme/Images/close.png'),
+  themeCamera: require('../Theme/Images/themeCamera.png'),
+  gallery: require('../Theme/Images/gallery.png'),
+  downArrow: require('../Theme/Images/downarrow.png'),
+  play: require('../Theme/Images/play.png'),
+  video: require('../Theme/Images/video.png'),
+  camera: require('../Theme/Images/camera.png'),
+  sned: require('../Theme/Images/send.png'),
+  Dots: require('../Theme/Images/dots.png'),
+
+
+};
+
+export default images;
